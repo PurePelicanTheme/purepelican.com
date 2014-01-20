@@ -74,7 +74,9 @@ a.pure-button-cta {
 }
 
 .image {
-    width: 799px;
+    width: 798px;
+    display: block;
+    margin: 0 0 0 1px;
 }
 
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
